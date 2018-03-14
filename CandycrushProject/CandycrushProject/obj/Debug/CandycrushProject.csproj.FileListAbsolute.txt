@@ -1,0 +1,6 @@
+c:\users\doaa\documents\visual studio 2013\Projects\CandycrushProject\CandycrushProject\bin\Debug\CandycrushProject.exe.config
+c:\users\doaa\documents\visual studio 2013\Projects\CandycrushProject\CandycrushProject\bin\Debug\CandycrushProject.exe
+c:\users\doaa\documents\visual studio 2013\Projects\CandycrushProject\CandycrushProject\bin\Debug\CandycrushProject.pdb
+c:\users\doaa\documents\visual studio 2013\Projects\CandycrushProject\CandycrushProject\obj\Debug\CandycrushProject.exe
+c:\users\doaa\documents\visual studio 2013\Projects\CandycrushProject\CandycrushProject\obj\Debug\CandycrushProject.pdb
+C:\Users\Doaa\Documents\Visual Studio 2013\Projects\CandycrushProject\CandycrushProject\obj\Debug\CandycrushProject.csprojResolveAssemblyReference.cache
